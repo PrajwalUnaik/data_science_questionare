@@ -3,3 +3,4 @@ pandas
 openai
 mysql-connector-python
 python-dotenv
+openpyxl
